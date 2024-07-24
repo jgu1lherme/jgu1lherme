@@ -1,3 +1,3 @@
 # João Guilherme
 
-Surfer & programmer and design enthusiast.
+Surfer, programmer and design enthusiast.
