@@ -1,1 +1,3 @@
-- Eu sou o João Guilherme
+# João Guilherme
+
+Surfer & programmer and design enthusiast.
