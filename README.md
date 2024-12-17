@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@jguilherme07"><img src="./assets/youtube-badge.svg"/></a>
+  <a ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)><img src="./assets/youtube-badge.svg"/></a>
   <a href="https://#/"><img src="./assets/website-badge.svg"/></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jgu1lherme&color=grey&style=for-the-badge"></a>
 </div>
