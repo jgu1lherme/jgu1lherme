@@ -1,6 +1,5 @@
 <h1 align="center">👋 jgu1lherme</h1>
 
-- 📫 Contact me at [contact@maxhu.dev](mailto:contact@maxhu.dev)
 - ⚙ You can find my VsCode settings [here](https://github.com/jgu1lherme/VSCode-Settings)
 
 <div align="center">
