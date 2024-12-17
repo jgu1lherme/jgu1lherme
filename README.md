@@ -1,8 +1,18 @@
-# João Guilherme
+<h1 align="center">👋 jgu1lherme</h1>
 
-Surfer, programmer and design enthusiast.
+- 📫 Contact me at [contact@maxhu.dev](mailto:contact@maxhu.dev)
+- ⚙ You can find my VsCode settings [here](https://github.com/jgu1lherme/VSCode-Settings)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgu1lherme&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@jguilherme07"><img src="./assets/youtube-badge.svg"/></a>
+  <a href="https://#/"><img src="./assets/website-badge.svg"/></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jgu1lherme&color=grey&style=for-the-badge"></a>
+</div>
+
+<br />
