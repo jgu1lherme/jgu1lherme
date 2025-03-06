@@ -1,4 +1,6 @@
-<h1 align="center">👋Hi there, I'm jgu1lherme!</h1>
+### 👋 Hi there, I'm Jgu1lherme!
+
+---
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen"/> 
