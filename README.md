@@ -11,7 +11,7 @@
 <p>
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
 <img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-000B1D.svg?style=flat-square&logo=googlefonts&logoColor=white&color=4285F4" />
-<img alt="Gimp" src="https://img.shields.io/badge/gimp-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white&color=5C5543" />
+<img alt="Gimp" src="https://img.shields.io/badge/gimp-331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white&color=5C5543" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
 <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
