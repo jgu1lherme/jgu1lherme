@@ -7,10 +7,7 @@
  <img src="https://badges.pufler.dev/repos/jgu1lherme"/>
  <img src="https://badges.pufler.dev/commits/all/jgu1lherme" />
 
-<div align="center">
   <h3>Knowledge Stack</h3>
-</div>
-
 <p>
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
 <img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-000B1D.svg?style=flat-square&logo=googlefonts&logoColor=white&color=4285F4" />
