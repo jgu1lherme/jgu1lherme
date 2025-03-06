@@ -10,7 +10,7 @@
 <h3>Knowledge Stack</h3>
 <p>
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-<img alt="Google Fonts" src="https://img.shields.io/badge/google%20fonts-000B1D.svg?style=flat-square&logo=googlefonts&logoColor=white" />
+<img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-000B1D.svg?style=flat-square&logo=googlefonts&logoColor=white" />
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
