@@ -29,7 +29,9 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
 
 </p>
+
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgu1lherme&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgu1lherme&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff" />
 </div>
+
 
