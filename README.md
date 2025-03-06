@@ -4,7 +4,6 @@
  <img src="https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen"/> 
  <img src="https://badges.pufler.dev/repos/jgu1lherme"/>
  <img src="https://badges.pufler.dev/commits/all/jgu1lherme" />
-<div align="center">
 
 <h3>Technology Knowledge</h3>
 <p>
