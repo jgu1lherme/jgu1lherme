@@ -5,7 +5,7 @@
  <img src="https://badges.pufler.dev/repos/jgu1lherme"/>
  <img src="https://badges.pufler.dev/commits/all/jgu1lherme" />
 
-<h3>Technology Knowledge</h3>
+<h2>Technology Knowledge</h2>
 <p>
 <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img alt="Adobe Fonts" src="https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white" />
@@ -29,5 +29,6 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgu1lherme&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
