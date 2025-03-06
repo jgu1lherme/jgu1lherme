@@ -1,6 +1,7 @@
 <h1 align="center">👋Hi there, I'm jgu1lherme!</h1>
 
-<div align="center">
+<div align="center" ![](https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen)
+>
 ![](https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen)
 
 <div align="center">
