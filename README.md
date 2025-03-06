@@ -20,7 +20,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-abb?style=flat-square&logo=python&logoColor=white&logoSize=auto&color=3776AB" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-abb?style=flat-square&logo=python&logoColor=f7cf44&logoSize=auto&color=3776AB" />
 <img alt="Bash Script" src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
