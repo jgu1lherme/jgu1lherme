@@ -1,9 +1,9 @@
 <h1 align="center">👋Hi there, I'm jgu1lherme!</h1>
 
-<div align="center" ![](https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen)
->
-![](https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen)
-
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=cycosad&color=brightgreen"/> 
+ <img src="https://badges.pufler.dev/repos/jgu1lherme"/>
+ <img src="https://badges.pufler.dev/commits/all/jgu1lherme" />
 <div align="center">
 
 <h3>Technology Knowledge</h3>
