@@ -27,7 +27,8 @@
 <img alt="Power Bi" src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=bookmeter&logoColor=black" />
 <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white&color=43b02a" />
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-
+<img alt="Node" src="https://img.shields.io/badge/Node-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+ 
 </p>
 
 <div align="center">
