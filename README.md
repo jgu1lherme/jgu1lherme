@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm João Guilherme!
 
-
+<br>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=jgu1lherme&color=brightgreen"/> 
