@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm João Guilherme!
+## 👋 Hi there, I'm João Guilherme!
 
 ---
 
