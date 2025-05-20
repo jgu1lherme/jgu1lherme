@@ -22,10 +22,10 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-abb?style=flat-square&logo=python&logoColor=f7cf44&logoSize=auto&color=3776AB" />
-<img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img alt="Bash Script" src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img alt="Power Bi" src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=bookmeter&logoColor=black" />
 <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white&color=43b02a" />
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
