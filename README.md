@@ -36,10 +36,10 @@
 
 
  
-</p>
+<!-- </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgu1lherme&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff" />
-</div>
+</div> -->
 
 
