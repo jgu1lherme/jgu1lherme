@@ -27,7 +27,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white&color=2a0052" />
-<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
 <img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-000B1D.svg?style=flat-square&logo=googlefonts&logoColor=white&color=4285F4" />
 <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
