@@ -39,6 +39,7 @@
 <img alt="Gimp" src="https://img.shields.io/badge/Gimp-331A8FF.svg?style=flat-square&logo=gimp&logoColor=white&color=5C5543" />
 <img alt="ngrok" src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" />
 <img alt="Inno Setup" src="https://img.shields.io/badge/Inno%20Setup-6A3DA8?style=flat-square&logo=windows&logoColor=white" />
+<img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" />
 </p>
 
 
