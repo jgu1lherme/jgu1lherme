@@ -32,16 +32,13 @@
 <img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white&color=2a0052" />
 <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
-<img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-000B1D.svg?style=flat-square&logo=googlefonts&logoColor=white&color=4285F4"/>
 <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
 <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img alt="Bash Script" src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img alt="Pillow" src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
 <img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-121013?style=flat-square&logo=github&logoColor=white" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
 <img alt="Gimp" src="https://img.shields.io/badge/Gimp-331A8FF.svg?style=flat-square&logo=gimp&logoColor=white&color=5C5543" />
-<img alt="PyAutoGUI" src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="ngrok" src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" />
 <img alt="Inno Setup" src="https://img.shields.io/badge/Inno%20Setup-6A3DA8?style=flat-square&logo=windows11&logoColor=white" />
 <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" />
