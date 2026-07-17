@@ -17,7 +17,7 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white&color=43b02a" />
-<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=chatgpt&logoColor=white" />
+<img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=bookmeter&logoColor=black" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
